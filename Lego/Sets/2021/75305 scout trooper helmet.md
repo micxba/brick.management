@@ -1,8 +1,4 @@
-----
-title: 75305 Scout Trooper Helmet
-creation-date: December 14, 2021
-modification-date: December 14, 2021
-----
+# 75305 Scout Trooper Helmet
 
 75305 Scout Trooper Helmet
 

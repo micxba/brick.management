@@ -1,8 +1,4 @@
-----
-title: 75297 Resistance X-Wing
-creation-date: December 14, 2021
-modification-date: December 14, 2021
-----
+# 75297 Resistance X-Wing
 
 75297 Resistance X-Wing 
 

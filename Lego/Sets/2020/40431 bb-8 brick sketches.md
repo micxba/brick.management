@@ -1,8 +1,4 @@
-----
-title: 40431 BB-8 Brick Sketches
-creation-date: December 14, 2021
-modification-date: December 14, 2021
-----
+# 40431 BB-8 Brick Sketches
 
 40431 BB-8 Brick Sketches
 

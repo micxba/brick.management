@@ -1,8 +1,4 @@
-----
-title: 75270 Obi-Wan’s Hut
-creation-date: December 14, 2021
-modification-date: December 14, 2021
-----
+# 75270 Obi-Wan’s Hut
 
 75270 Obi-Wan’s Hut
 

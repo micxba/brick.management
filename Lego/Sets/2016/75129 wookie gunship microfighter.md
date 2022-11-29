@@ -1,8 +1,4 @@
-----
-title: 75129 Wookie Gunship Microfighter
-creation-date: December 14, 2021
-modification-date: December 14, 2021
-----
+# 75129 Wookie Gunship Microfighter
 
 75129 Wookie Gunship Microfighter
 

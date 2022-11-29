@@ -1,9 +1,3 @@
-----
-title: 40557 Defense of Hoth
-creation-date: February 10, 2022
-modification-date: February 10, 2022
-----
-
 # 40557 Defense of Hoth
 
 Interesting packaging, not what I expected. Nice little see though, Minifig’s and a Cole weapons. 

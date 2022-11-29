@@ -1,8 +1,4 @@
-----
-title: 75079 Shadow Troopers
-creation-date: December 14, 2021
-modification-date: December 14, 2021
-----
+# 75079 Shadow Troopers
 
 75079 Shadow Troopers
 

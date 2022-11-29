@@ -1,8 +1,4 @@
-----
-title: 75256 Kylo Ren’s Shuttle
-creation-date: December 14, 2021
-modification-date: December 14, 2021
-----
+# 75256 Kylo Ren’s Shuttle
 
 75256 Kylo Ren’s Shuttle
 

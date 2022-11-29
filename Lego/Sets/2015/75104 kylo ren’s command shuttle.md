@@ -1,8 +1,4 @@
-----
-title: 75104 Kylo Ren’s Command Shuttle
-creation-date: December 14, 2021
-modification-date: December 14, 2021
-----
+# 75104 Kylo Ren’s Command Shuttle
 
 75104 Kylo Ren’s Command Shuttle
 

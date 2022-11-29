@@ -1,8 +1,4 @@
-----
-title: 75125 Resistance X-wing Fighter Microfighter
-creation-date: December 14, 2021
-modification-date: December 14, 2021
-----
+# 75125 Resistance X-wing Fighter Microfighter
 
 75125 Resistance X-wing Fighter Microfighter
 

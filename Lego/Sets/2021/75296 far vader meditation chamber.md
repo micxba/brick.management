@@ -1,8 +1,4 @@
-----
-title: 75296 Far Vader Meditation Chamber
-creation-date: December 14, 2021
-modification-date: December 14, 2021
-----
+# 75296 Far Vader Meditation Chamber
 
 75296 Far Vader Meditation Chamber
 

@@ -1,8 +1,4 @@
-----
-title: 75315 Imperial Light Cruiser
-creation-date: December 14, 2021
-modification-date: December 14, 2021
-----
+# 75315 Imperial Light Cruiser
 
 75315 Imperial Light Cruiser
 

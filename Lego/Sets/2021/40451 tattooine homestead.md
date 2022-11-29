@@ -1,8 +1,4 @@
-----
-title: 40451 Tattooine Homestead
-creation-date: December 14, 2021
-modification-date: July 9, 2022
-----
+# 40451 Tattooine Homestead
 
 40451 Tattooine Homestead
 

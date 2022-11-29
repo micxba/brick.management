@@ -1,8 +1,4 @@
-----
-title: 75033 Star Destroyer - Microfighter
-creation-date: December 14, 2021
-modification-date: December 14, 2021
-----
+# 75033 Star Destroyer - Microfighter
 
 75033 Star Destroyer - Microfighter
 

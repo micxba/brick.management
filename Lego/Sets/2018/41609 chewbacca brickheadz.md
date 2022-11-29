@@ -1,8 +1,4 @@
-----
-title: 41609 Chewbacca Brickheadz
-creation-date: December 14, 2021
-modification-date: December 14, 2021
-----
+# 41609 Chewbacca Brickheadz
 
 41609 Chewbacca Brickheadz
 

@@ -1,8 +1,4 @@
-----
-title: 10295 Porsche Turbo
-creation-date: December 14, 2021
-modification-date: December 14, 2021
-----
+# 10295 Porsche Turbo
 
 10295 Porsche Turbo
 

@@ -1,9 +1,3 @@
-----
-title: 40483 Luke Skywalker’s Lightsaber
-creation-date: January 1, 2022
-modification-date: January 1, 2022
-----
-
 # 40483 Luke Skywalker’s Lightsaber
 
 It’s a nice little set. I enjoyed the [15 minutes] of build. Great set to display. 

@@ -1,8 +1,4 @@
-----
-title: 75264 AT-AP Walker
-creation-date: December 14, 2021
-modification-date: December 14, 2021
-----
+# 75264 AT-AP Walker
 
 75264 AT-AP Walker
 

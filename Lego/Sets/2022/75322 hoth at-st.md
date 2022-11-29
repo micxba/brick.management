@@ -1,9 +1,3 @@
-----
-title: 75322 Hoth AT-ST
-creation-date: January 25, 2022
-modification-date: January 25, 2022
-----
-
 # 75322 Hoth AT-ST
 
 Almost forgot to post this one, surprisingly quick build but love the details for such a small model. It actually goes quite well with the AT-AT UCS next to it.

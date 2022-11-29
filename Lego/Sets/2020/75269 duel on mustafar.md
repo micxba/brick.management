@@ -1,8 +1,4 @@
-----
-title: 75269 Duel on Mustafar
-creation-date: December 14, 2021
-modification-date: December 14, 2021
-----
+# 75269 Duel on Mustafar
 
 75269 Duel on Mustafar
 

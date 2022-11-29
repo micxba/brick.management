@@ -1,8 +1,4 @@
-----
-title: 40486 Mini Adidas Originals Superstar
-creation-date: December 14, 2021
-modification-date: July 9, 2022
-----
+# 40486 Mini Adidas Originals Superstar
 
 40486 Mini Adidas Originals Superstar
 

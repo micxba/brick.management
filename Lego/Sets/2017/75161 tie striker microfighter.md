@@ -1,8 +1,4 @@
-----
-title: 75161 Tie Striker Microfighter
-creation-date: December 14, 2021
-modification-date: December 14, 2021
-----
+# 75161 Tie Striker Microfighter
 
 75161 Tie Striker Microfighter
 

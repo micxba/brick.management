@@ -1,9 +1,3 @@
-----
-title: 75313 AT-AT UCS
-creation-date: March 21, 2021
-modification-date: December 14, 2021
-----
-
 # 75313 AT-AT UCS
 
 AT-AT

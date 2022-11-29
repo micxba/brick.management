@@ -1,9 +1,3 @@
-----
-title: 75302 Imperial Shuttle
-creation-date: December 14, 2021
-modification-date: December 14, 2021
-----
-
 # 75302 Imperial Shuttle
 Next build
 

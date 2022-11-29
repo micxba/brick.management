@@ -1,9 +1,3 @@
-----
-title: 75167 Bounty Hunter Speeder Bike Battle Pack
-creation-date: June 25, 2022
-modification-date: June 25, 2022
-----
-
 # 75167 Bounty Hunter Speeder Bike Battle Pack
 
 Not that much of a build, but sind nice Minifigs. One of the few Battle packs that are still missing in my collection. 

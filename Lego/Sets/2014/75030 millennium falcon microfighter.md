@@ -1,8 +1,4 @@
-----
-title: 75030 Millennium Falcon Microfighter
-creation-date: June 2, 2022
-modification-date: June 2, 2022
-----
+# 75030 Millennium Falcon Microfighter
 
 75030 Millennium Falcon Microfighter
 

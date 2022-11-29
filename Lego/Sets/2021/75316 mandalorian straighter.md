@@ -1,8 +1,4 @@
-----
-title: 75316 Mandalorian Straighter
-creation-date: December 14, 2021
-modification-date: December 14, 2021
-----
+# 75316 Mandalorian Straighter
 
 75316 Mandalorian Straighter
 

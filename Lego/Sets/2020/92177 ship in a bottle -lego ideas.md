@@ -1,8 +1,4 @@
-----
-title: 92177 Ship in a bottle -Lego Ideas
-creation-date: December 14, 2021
-modification-date: December 14, 2021
-----
+# 92177 Ship in a bottle -Lego Ideas
 
 92177 Ship in a bottle -Lego Ideas
 

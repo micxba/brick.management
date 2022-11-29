@@ -1,8 +1,4 @@
-----
-title: 75029 AAT - Microfighter
-creation-date: December 14, 2021
-modification-date: December 14, 2021
-----
+# 75029 AAT - Microfighter
 
 75029 AAT - Microfighter
 

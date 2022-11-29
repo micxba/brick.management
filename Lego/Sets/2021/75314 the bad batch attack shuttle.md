@@ -1,8 +1,4 @@
-----
-title: 75314 The Bad Batch Attack Shuttle
-creation-date: December 14, 2021
-modification-date: December 14, 2021
-----
+# 75314 The Bad Batch Attack Shuttle
 
 75314 The Bad Batch Attack Shuttle
 

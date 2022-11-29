@@ -1,8 +1,4 @@
-----
-title: 75223 Naboo Starfighter Microfighter
-creation-date: December 14, 2021
-modification-date: December 14, 2021
-----
+# 75223 Naboo Starfighter Microfighter
 
 75223 Naboo Starfighter Microfighter
 

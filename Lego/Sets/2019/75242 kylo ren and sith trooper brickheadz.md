@@ -1,8 +1,4 @@
-----
-title: 75242 Kylo Ren and Sith Trooper Brickheadz
-creation-date: December 14, 2021
-modification-date: December 14, 2021
-----
+# 75242 Kylo Ren and Sith Trooper Brickheadz
 
 75242 Kylo Ren and Sith Trooper Brickheadz
 

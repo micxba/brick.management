@@ -1,8 +1,4 @@
-----
-title: 6373603 Ulysses Space Probe.
-creation-date: December 14, 2021
-modification-date: December 14, 2021
-----
+# 6373603 Ulysses Space Probe.
 
 6373603 Ulysses Space Probe.
 

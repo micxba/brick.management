@@ -1,8 +1,4 @@
-----
-title: 75298 AT-AT vs. Tauntaun Microfighters
-creation-date: December 14, 2021
-modification-date: December 14, 2021
-----
+# 75298 AT-AT vs. Tauntaun Microfighters
 
 75298 AT-AT vs. Tauntaun Microfighters
 

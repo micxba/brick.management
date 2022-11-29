@@ -1,9 +1,3 @@
-----
-title: 75334 Obi-WAN Kenobi vs. Darth Vader
-creation-date: August 9, 2022
-modification-date: August 9, 2022
-----
-
 # 75334 Obi-WAN Kenobi vs. Darth Vader
 
 Just like everyone else, I agree: the most underwhelming set this year. Glad it had a couple nice Minifig’s. 

@@ -1,9 +1,3 @@
-----
-title: 75313 AT-AT (UCS)
-creation-date: December 28, 2021
-modification-date: December 28, 2021
-----
-
 # 75313 AT-AT (UCS)
 
 Fantastic build of an all-time classic. Most of the mechanics were done very well. I am not a huge fan of single-peg parts that fall off every time you touch it but once displayed it is no longer an issue.

@@ -1,9 +1,3 @@
-----
-title: 75336 Inquisitors Transport Scythe
-creation-date: August 11, 2022
-modification-date: August 11, 2022
-----
-
 # 75336 Inquisitors Transport Scythe
 
 A solid set of the Obi-Wan series. It’s a Fingerprint magnet but I think it’s a very nice set with plenty moving parts. Great Minifigs as well

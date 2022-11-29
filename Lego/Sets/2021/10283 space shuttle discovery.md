@@ -1,9 +1,3 @@
-----
-title: 10283 Space Shuttle Discovery
-creation-date: December 14, 2021
-modification-date: December 14, 2021
-----
-
 # 10283 Space Shuttle Discovery
 
 The NASA Space Shuttle Discovery set is a nice build and display model. Love the choice of three display modes with Hubble next to it, inside the bay or on stand inside the bay.

@@ -1,9 +1,3 @@
-----
-title: 75319 The Armor’s Mandalorian Forge
-creation-date: December 14, 2021
-modification-date: December 14, 2021
-----
-
 # 75319 The Armor’s Mandalorian Forge
 
 Almost forgot to post this one. Billy it since eine ago. It’s a cute little build, nice Minifigs.

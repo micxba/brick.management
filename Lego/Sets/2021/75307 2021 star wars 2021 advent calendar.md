@@ -1,9 +1,3 @@
-----
-title: 75307 2021 Star Wars 2021 Advent Calendar
-creation-date: December 1, 2021
-modification-date: December 24, 2021
-----
-
 # 75307 2021 Star Wars 2021 Advent Calendar
 
 Day1:

@@ -1,9 +1,3 @@
-----
-title: 75327 Luke Skywalker (Red Five)
-creation-date: March 17, 2022
-modification-date: March 17, 2022
-----
-
 # 75327 Luke Skywalker (Red Five) 
 
 Goes without saying that this one Is the favorite of the three recently released helmets. It is different in that it is just a helmet without the assumption of a head inside. Nice built few unique pieces and the greatest play peace.

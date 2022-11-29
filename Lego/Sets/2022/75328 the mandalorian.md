@@ -1,9 +1,3 @@
-----
-title: 75328 The Mandalorian
-creation-date: March 13, 2022
-modification-date: March 13, 2022
-----
-
 # 75328 The Mandalorian
 
 Very nice helmet. I’m glad The Lego Group decided to make this one. Still only my serving favorite of the three released but beautiful and fun albeit quick build. 

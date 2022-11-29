@@ -1,9 +1,3 @@
-----
-title: 75252 Imperial Star Destroyer
-creation-date: December 14, 2021
-modification-date: December 14, 2021
-----
-
 # 75252 Imperial Star Destroyer
 
 Oh yes she did!

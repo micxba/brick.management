@@ -2,43 +2,51 @@ import os
 import shutil
 import re
 
-#tagcloud=['#lego','#starwars','#disney','#legostarwars','#starwarslego','#starwarsgeeks','#starwarscollector','#starwarsgeek','#afol','#legolife','#minifig','#minifigures','#minifigs','#legoaddict','#legoworld','#legomania','#legofan','#legophoto','#legophotography']
-tagcloud="""#lego #starwars #disney #legostarwars #starwarslego #starwarsgeeks #starwarscollector #starwarsgeek #afol #legolife #minifig #minifigures #minifigs #legoaddict #legoworld  #legomania #legofan #legophoto"""
-
-
-for root, subdir, filenames in os.walk("./"):
+for root, subdir, filenames in os.walk ("Lego/Sets/"):
     for file in filenames:
         if file.endswith(".md"):
-            file_path=os.path.join(root,file)
+            file_path = os.path.join(root, file)
             setid = file[0:file.index(" ")]
             s = file[file.index(" ")+1:].replace(".md","")
             setname = " ".join(word[0].upper()+word[1:] for word in s.split(" "))
-            setyear = file_path.split("/")[1]
-            print(setid)
-            print(setname)
-            print(setyear)
-            dst = f"/Users/hal/Documents/brickmanagement/new/{setyear}/{s}.md".replace(" ","_")
-            print(dst)
-            print("---")
-            #copy the file to a new location
-            shutil.copyfile(file_path, dst)
-            # replace text in those newly copied files
-            with open(dst, 'r') as file:
-                data = file.read()
-                #Remove Tag cloud:
-                # for t in tagcloud:
-                #     print(f'Replacing {t}')
-                #     data = data.replace(t,"")
-                data = data.replace(tagcloud,"")
-                data = data.replace("----", "---")
-                k = f"""---
-hide:
-  - footer
-title: {setname} ({setid})"""
-                l = f"""---
-title: {setid} {setname}"""
-                data = data.replace(l,k)
-                data = re.sub(r"creation-date:.*","",data)
-                data = re.sub(r"modification-date:.*","",data)
-            with open(dst, 'w') as file:
-                file.write(data)
+            setyear = file_path.split("/")[2] 
+            print(f'ID: {setid} Year: {setyear} Name: {setname}')
+            with open(file_path, 'w'):
+                
+
+# for root, subdir, filenames in os.walk("./"):
+#     for file in filenames:
+#         if file.endswith(".md"):
+#             file_path=os.path.join(root,file)
+#             setid = file[0:file.index(" ")]
+#             s = file[file.index(" ")+1:].replace(".md","")
+#             setname = " ".join(word[0].upper()+word[1:] for word in s.split(" "))
+#             setyear = file_path.split("/")[1]
+#             print(setid)
+#             print(setname)
+#             print(setyear)
+#             dst = f"/Users/hal/Documents/brickmanagement/new/{setyear}/{s}.md".replace(" ","_")
+#             print(dst)
+#             print("---")
+#             #copy the file to a new location
+#             shutil.copyfile(file_path, dst)
+#             # replace text in those newly copied files
+#             with open(dst, 'r') as file:
+#                 data = file.read()
+#                 #Remove Tag cloud:
+#                 # for t in tagcloud:
+#                 #     print(f'Replacing {t}')
+#                 #     data = data.replace(t,"")
+#                 data = data.replace(tagcloud,"")
+#                 data = data.replace("----", "---")
+#                 k = f"""---
+# hide:
+#   - footer
+# title: {setname} ({setid})"""
+#                 l = f"""---
+# title: {setid} {setname}"""
+#                 data = data.replace(l,k)
+#                 data = re.sub(r"creation-date:.*","",data)
+#                 data = re.sub(r"modification-date:.*","",data)
+#             with open(dst, 'w') as file:
+#                 file.write(data)

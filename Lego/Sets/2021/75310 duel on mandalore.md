@@ -1,8 +1,4 @@
-----
-title: 75310 Duel on Mandalore
-creation-date: December 14, 2021
-modification-date: December 14, 2021
-----
+# 75310 Duel on Mandalore
 
 75310 Duel on Mandalore
 

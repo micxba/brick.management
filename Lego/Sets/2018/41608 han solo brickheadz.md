@@ -1,8 +1,4 @@
-----
-title: 41608 Han Solo Brickheadz
-creation-date: December 14, 2021
-modification-date: December 14, 2021
-----
+# 41608 Han Solo Brickheadz
 
 41608 Han Solo Brickheadz
 

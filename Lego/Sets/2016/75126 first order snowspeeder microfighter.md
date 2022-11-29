@@ -1,8 +1,4 @@
-----
-title: 75126 First Order Snowspeeder Microfighter
-creation-date: December 14, 2021
-modification-date: December 14, 2021
-----
+# 75126 First Order Snowspeeder Microfighter
 
 75126 First Order Snowspeeder Microfighter
 

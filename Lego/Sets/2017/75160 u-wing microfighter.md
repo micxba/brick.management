@@ -1,8 +1,4 @@
-----
-title: 75160 U-Wing Microfighter
-creation-date: December 14, 2021
-modification-date: December 14, 2021
-----
+# 75160 U-Wing Microfighter
 
 75160 U-Wing Microfighter
 

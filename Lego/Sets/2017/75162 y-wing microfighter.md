@@ -1,8 +1,4 @@
-----
-title: 75162 Y-Wing Microfighter
-creation-date: December 14, 2021
-modification-date: December 14, 2021
-----
+# 75162 Y-Wing Microfighter
 
 75162 Y-Wing Microfighter
 

@@ -1,9 +1,3 @@
-----
-title: 75290 Mos Eisley Cantina
-creation-date: December 14, 2021
-modification-date: December 14, 2021
-----
-
 # 75290 Mos Eisley Cantina
 
 It begins. Mos Eisley Cantina build.

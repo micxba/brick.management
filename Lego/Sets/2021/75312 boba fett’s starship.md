@@ -1,8 +1,4 @@
-----
-title: 75312 Boba Fett’s Starship
-creation-date: December 14, 2021
-modification-date: May 3, 2022
-----
+# 75312 Boba Fett’s Starship
 
 75312 Boba Fett’s Starship
 

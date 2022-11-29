@@ -1,9 +1,3 @@
-----
-title: 75326 Boba Fett’s Throne Room
-creation-date: February 23, 2022
-modification-date: February 23, 2022
-----
-
 # 75326 Boba Fett’s Throne Room
 
 Quite a nice set. Fortunate that my local Costco had it a couple weeks earlier than the official Lego release. Set is a little bit smaller than I would’ve anticipated. But I guess it is the right size for the price. Some very nice mini fix however I would’ve loved a second Gomorran guard in lieu of the dancer Minifig. 

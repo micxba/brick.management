@@ -1,8 +1,4 @@
-----
-title: 75128 TIE Advanced Prototype Microfighter
-creation-date: December 14, 2021
-modification-date: December 14, 2021
-----
+# 75128 TIE Advanced Prototype Microfighter
 
 75128 TIE Advanced Prototype Microfighter
 

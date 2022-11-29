@@ -1,8 +1,4 @@
-----
-title: 75304 Darth Vader Helmet
-creation-date: December 14, 2021
-modification-date: December 14, 2021
-----
+# 75304 Darth Vader Helmet
 
 75304 Darth Vader Helmet
 

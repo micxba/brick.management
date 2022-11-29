@@ -1,8 +1,4 @@
-----
-title: 75163 Krennic's Imperial Shuttle Microfighter
-creation-date: December 14, 2021
-modification-date: December 14, 2021
-----
+# 75163 Krennic's Imperial Shuttle Microfighter
 
 75163 Krennic's Imperial Shuttle Microfighter
 

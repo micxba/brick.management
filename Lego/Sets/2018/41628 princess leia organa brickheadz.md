@@ -1,8 +1,4 @@
-----
-title: 41628 Princess Leia Organa Brickheadz
-creation-date: December 14, 2021
-modification-date: December 14, 2021
-----
+# 41628 Princess Leia Organa Brickheadz
 
 41628 Princess Leia Organa Brickheadz
 

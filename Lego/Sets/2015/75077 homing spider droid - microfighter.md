@@ -1,8 +1,4 @@
-----
-title: 75077 Homing Spider Droid - Microfighter
-creation-date: October 22, 2022
-modification-date: October 22, 2022
-----
+# 75077 Homing Spider Droid - Microfighter
 
 75077 Homing Spider Droid - Microfighter
 

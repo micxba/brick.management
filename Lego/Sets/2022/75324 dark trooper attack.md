@@ -1,9 +1,3 @@
-----
-title: 75324 Dark Trooper Attack
-creation-date: April 9, 2022
-modification-date: April 9, 2022
-----
-
 # 75324 Dark Trooper Attack
 
 Interesting little build. Very little detail but nice to get some additional Dark Troopers

@@ -1,8 +1,4 @@
-----
-title: 40391 First Order Stormtrooper - Brick Sketches
-creation-date: December 14, 2021
-modification-date: December 14, 2021
-----
+# 40391 First Order Stormtrooper - Brick Sketches
 
 40391 First Order Stormtrooper - Brick Sketches
 
