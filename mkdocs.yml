@@ -1,0 +1,133 @@
+site_name: Brick.Management
+site_url: https://brick.management
+site_description: AN AFOLs Lego Collection
+site_author: Doodle.Bricks
+
+copyright: |
+  &copy; brick.management
+
+site_dir: site
+docs_dir: Lego
+
+# +-----------------------------------------+
+# |                                         |
+# | Navigation can be specified manually    |
+# | If commented out, all pages will show   |
+# |                                         |
+# +-----------------------------------------+
+#nav:
+#  - Welcome: index.md
+
+theme:
+  name: material
+  favicon: 'Resources/favicon.ico'
+  features:
+  #  Announce
+  - announce.dismiss # Adds a "X" button to dismiss a news banner/mark it as read.*
+  #- header.autohide # Hide header when user scrolls past a specific point.
+  
+  #- navigation.expand      # Expand all collapsable sections.
+  - navigation.instant     # Instant loading pages.
+  #- navigation.indexes     # Attach pages directly to Sections. Incompatible with "toc.integrate"
+  #- navigation.sections    # Render top sections as groups.
+  - navigation.tabs         # Render top sections as tabs at the top.
+  #- navigation.tabs.sticky # Tabs won't disappear when scrolling down. Requires "navigation.tabs".
+  - navigation.top         # Adds a "Back to top" that is shown when scrolling up.
+  #- navigation.tracking    # Updates the url with highlighted section anchor.
+
+  #- search.highlight # Search will highlight the searched word(s) on the page.*
+  - search.share     # Adds an option to share a search query link.*
+  - search.suggest   # Search will suggest the likeliest completion for a word.*
+  
+  #- toc.integrate          # Include the TOC sections in the left navugation.
+
+  icon:
+    logo: 'material/toy-brick'
+    repo: 'material/toy-brick'
+
+  palette:
+
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deeppurple
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deeppurple
+      accent: blue
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+
+# Extensions
+markdown_extensions:
+  - footnotes
+  - attr_list
+  - md_in_html
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.magiclink
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - def_list
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - toc:
+      permalink: true
+
+plugins:
+  - search:
+      indexing: 'full'  # Can be replaced by section or titles
+  - table-reader
+  - mkdocs-simple-hooks:
+      hooks:
+        # Take a brickset.com export of your sets and drop not needed columns
+        on_pre_build: "hooks.index:bricksetparser"
+        # Custom CSV Parser
+        # on_pre_build: "hooks.index:buildindexcsv"
+  - roamlinks 
+  - mermaid2
+  - glightbox:
+      touchNavigation: true
+      width: 30%
+      height: auto
+      zoomable: true
+      auto_caption: true
+      caption_position: bottom
+
+  - tags:
+      tags_file: tags.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/doodle.bricks/
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/michabaumann/
+    - icon: fontawesome/brands/twitter 
+      link: https://twitter.com/micxba
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/michabaumann/
+
+extra_javascript:
+  - Resources/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - https://unpkg.com/mermaid/dist/mermaid.min.js 
+
+

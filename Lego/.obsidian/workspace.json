@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "f56357e04969449d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0178c2f9490363e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a55ab33d6bfa44b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cfaf8dfaa0fc9a67",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a5d9ce75a574b0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99afd6f1ee30e021",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d75a502e33bbfaa4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ab4a382d11358687",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 329.5
+  },
+  "right": {
+    "id": "8d827ec3554ad266",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c04f9e9796bed23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7079785db5d63dc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "90b5ded2ec8fe212",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "794a0a8d66bf2927",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5f67501aceb0d4c6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6a55ab33d6bfa44b",
+  "lastOpenFiles": [
+    "Sets/2014/Star_Destroyer_Microfighter.md",
+    "Sets/2014/Millenium_Falcon_Microfighter.md",
+    "Sets/2014/AAT_Microfighter.md",
+    "Sets/2021/2021_star_wars_2021_advent_calendar.md",
+    "index.md",
+    "Sets/2020/at-ap_walker.md",
+    "Tech.md",
+    "Sets/2015/Kylo-Rens_Command_Shuttle.md",
+    "Sets/2021/at-at_vs_tauntaun_microfighters.md",
+    "Sets/2021/amelia_earhart_tribute.md"
+  ]
+}
