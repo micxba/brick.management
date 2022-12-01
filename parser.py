@@ -8,7 +8,7 @@ for root, subdir, filenames in os.walk ("Lego/Sets/"):
             file_path = os.path.join(root, file)
             setid = file[0:file.index(" ")]
             s = file[file.index(" ")+1:].replace(".md","")
-            setname = " ".join(word[0].upper()+word[1:] for word in s.split(" "))
+            setname = " ".join(word[0].upper()+word[1:] for word in s.split(" ")).lower()
             setyear = file_path.split("/")[2] 
             print(f'ID: {setid} Year: {setyear} Name: {setname}')
             newheader = f"""---
@@ -18,7 +18,7 @@ title: {setname} ({setid})
 ---
 
 """
-            dst = f"Lego/Sets2/{setyear}/{setname}.md".replace(" - ","-").replace(" ","_")
+            dst = f"Lego/Sets2/{setyear}/{setname}.md".replace(" - ","-").replace(" ","_").replace("'","")
             with open(file_path, 'r') as r, open(dst, 'w') as w:
                 data = r.read()
                 w.write(newheader)
