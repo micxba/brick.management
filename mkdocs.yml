@@ -6,8 +6,8 @@ site_author: Doodle.Bricks
 copyright: |
   &copy; brick.management
 
-site_dir: site
-docs_dir: Lego
+site_dir: /Users/hal/Documents/brickmanagement/site
+docs_dir: /Users/hal/code/brick.management/Lego
 
 # +-----------------------------------------+
 # |                                         |
