@@ -11,8 +11,13 @@
             "id": "6a55ab33d6bfa44b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sets/2017/y-wing_microfighter.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sets/2017/y-wing_microfighter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sets/2017/y-wing_microfighter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sets/2017/y-wing_microfighter.md"
+              }
             }
           }
         ],
@@ -131,15 +140,15 @@
   },
   "active": "6a55ab33d6bfa44b",
   "lastOpenFiles": [
-    "Sets/2014/Star_Destroyer_Microfighter.md",
-    "Sets/2014/Millenium_Falcon_Microfighter.md",
-    "Sets/2014/AAT_Microfighter.md",
-    "Sets/2021/2021_star_wars_2021_advent_calendar.md",
-    "index.md",
-    "Sets/2020/at-ap_walker.md",
-    "Tech.md",
-    "Sets/2015/Kylo-Rens_Command_Shuttle.md",
-    "Sets/2021/at-at_vs_tauntaun_microfighters.md",
-    "Sets/2021/amelia_earhart_tribute.md"
+    "Sets/2017/u-wing_microfighter.md",
+    "Sets/2017/tie_striker_microfighter.md",
+    "Sets/2017/millennium_falcon_ucs.md",
+    "Sets/2017/krennics_imperial_shuttle_microfighter.md",
+    "Sets/2017/bounty_hunter_speeder_bike_battle_pack.md",
+    "Sets/2016/wookie_gunship_microfighter.md",
+    "Sets/2016/resistance_x-wing_fighter_microfighter.md",
+    "Sets/2016/tie_advanced_prototype_microfighter.md",
+    "Sets/2016/first_order_snowspeeder_microfighter.md",
+    "Sets/2015/shadow_troopers.md"
   ]
 }

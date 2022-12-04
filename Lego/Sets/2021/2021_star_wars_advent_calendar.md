@@ -1,7 +1,7 @@
 ---
 hide:
   - footer
-title: 2021 star wars 2021 advent calendar (75307)
+title: 2021 star wars advent calendar (75307)
 tags:
   - Advent Calendar
   - Star Wars
