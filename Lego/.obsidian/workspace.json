@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets/2017/y-wing_microfighter.md",
+                "file": "Sets/2018/princess_leia_organa_brickheadz.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sets/2017/y-wing_microfighter.md",
+                "file": "Sets/2018/princess_leia_organa_brickheadz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sets/2017/y-wing_microfighter.md",
+                "file": "Sets/2018/princess_leia_organa_brickheadz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sets/2017/y-wing_microfighter.md"
+                "file": "Sets/2018/princess_leia_organa_brickheadz.md"
               }
             }
           }
@@ -140,15 +140,15 @@
   },
   "active": "6a55ab33d6bfa44b",
   "lastOpenFiles": [
+    "Sets/2018/kessel_run_millennium_falcon.md",
+    "Sets/2018/han_solo_brickheadz.md",
+    "Sets/2018/chewbacca_brickheadz.md",
+    "Sets/2017/y-wing_microfighter.md",
     "Sets/2017/u-wing_microfighter.md",
     "Sets/2017/tie_striker_microfighter.md",
     "Sets/2017/millennium_falcon_ucs.md",
     "Sets/2017/krennics_imperial_shuttle_microfighter.md",
     "Sets/2017/bounty_hunter_speeder_bike_battle_pack.md",
-    "Sets/2016/wookie_gunship_microfighter.md",
-    "Sets/2016/resistance_x-wing_fighter_microfighter.md",
-    "Sets/2016/tie_advanced_prototype_microfighter.md",
-    "Sets/2016/first_order_snowspeeder_microfighter.md",
-    "Sets/2015/shadow_troopers.md"
+    "Sets/2016/wookie_gunship_microfighter.md"
   ]
 }

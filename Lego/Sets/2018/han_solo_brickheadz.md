@@ -2,15 +2,11 @@
 hide:
   - footer
 title: han solo brickheadz (41608)
+tags:
+  - brickheadz
+  - solo
+  - han solo
+  - anthology
 ---
 
-# 41608 Han Solo Brickheadz
-
-41608 Han Solo Brickheadz
-
-Hab Solo from the Solo Movie.
-
-#41608 #hansolo #brickheadz
-
-#lego #starwars #disney #legostarwars #starwarslego #starwarsgeeks #starwarscollector #starwarsgeek #afol #legolife #minifig #minifigures #minifigs #legoaddict #legoworld  #legomania #legofan #legophoto 
-
+A young Han Solo from the Solo Movie. Not an exceptionally well done Brickhead but still a good addition to the collection.

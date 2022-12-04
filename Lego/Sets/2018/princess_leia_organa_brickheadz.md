@@ -2,15 +2,14 @@
 hide:
   - footer
 title: princess leia organa brickheadz (41628)
+tags:
+  - a new hope
+  - brickheadz
+  - original trilogy
+  - rebel alliance
+  - leia
+  - leia organa
+  - pricess leia organa
 ---
 
-# 41628 Princess Leia Organa Brickheadz
-
-41628 Princess Leia Organa Brickheadz
-
-She will always be royalty to me.
-
-#41628 #princessleia #leiaorgana #brickheadz
-
-#lego #starwars #disney #legostarwars #starwarslego #starwarsgeeks #starwarscollector #starwarsgeek #afol #legolife #minifig #minifigures #minifigs #legoaddict #legoworld  #legomania #legofan #legophoto 
-
+She will always be royalty to me. Very nice Brickheadz buily. Glad she is part of the series.
