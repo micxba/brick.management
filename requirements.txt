@@ -5,3 +5,4 @@ mkdocs-glightbox
 mkdocs-plugin-tags
 mkdocs-table-reader-plugin
 mkdocs-simple-hooks
+frontmatter
