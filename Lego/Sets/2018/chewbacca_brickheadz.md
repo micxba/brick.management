@@ -11,4 +11,3 @@ tags:
 ---
 
 Love these little guys. The Chewbacca Brickhead is very well done and fun to build.
-

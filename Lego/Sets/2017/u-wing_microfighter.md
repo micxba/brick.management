@@ -12,4 +12,3 @@ tags:
 ---
 
 1/4 Series 4 Microfighters. As always, Microfighters don’t disappoint. This one is a nice build with a nice looking U-Wing pilot Minifig.
-

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets/2018/princess_leia_organa_brickheadz.md",
+                "file": "Sets/2022/the_razor_crest_microfighter.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "75105",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sets/2018/princess_leia_organa_brickheadz.md",
+                "file": "Sets/2022/the_razor_crest_microfighter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sets/2018/princess_leia_organa_brickheadz.md",
+                "file": "Sets/2022/the_razor_crest_microfighter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sets/2018/princess_leia_organa_brickheadz.md"
+                "file": "Sets/2022/the_razor_crest_microfighter.md"
               }
             }
           }
@@ -140,15 +140,15 @@
   },
   "active": "6a55ab33d6bfa44b",
   "lastOpenFiles": [
-    "Sets/2018/kessel_run_millennium_falcon.md",
-    "Sets/2018/han_solo_brickheadz.md",
-    "Sets/2018/chewbacca_brickheadz.md",
-    "Sets/2017/y-wing_microfighter.md",
-    "Sets/2017/u-wing_microfighter.md",
-    "Sets/2017/tie_striker_microfighter.md",
-    "Sets/2017/millennium_falcon_ucs.md",
-    "Sets/2017/krennics_imperial_shuttle_microfighter.md",
-    "Sets/2017/bounty_hunter_speeder_bike_battle_pack.md",
-    "Sets/2016/wookie_gunship_microfighter.md"
+    "Sets/2022/the_mandalorian’s_n-1_straighter.md",
+    "Sets/2022/the_mandalorian.md",
+    "Sets/2022/the_justifier.md",
+    "Sets/2022/snowtrooper_battle_pack.md",
+    "Sets/2022/republic_fighter_tank.md",
+    "Sets/2022/obi-wan_kenobi’s_jedi_starfighter.md",
+    "Sets/2022/obi-wan_kenobi_vs-_darth_vader.md",
+    "Sets/2022/luke_skywalker’s_landspeeder_ucs.md",
+    "Sets/2022/luke_skywalker_(red_five).md",
+    "Sets/2022/lars_family_homestead_kitchen.md"
   ]
 }

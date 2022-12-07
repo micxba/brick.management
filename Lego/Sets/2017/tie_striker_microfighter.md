@@ -12,4 +12,3 @@ tags:
 ---
 
 2/4 Series 4 Microfighters. Nice little ship with a generic Tie Fighter Pilot Minifig.
-
